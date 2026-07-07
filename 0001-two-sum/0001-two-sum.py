@@ -3,19 +3,18 @@ class Solution:
         hashmap = {}
 
         for i in range(len(nums)):
-            complement = target - nums[i]
+            remaining = target - nums[i]
 
-            if complement in hashmap:
-                return[hashmap[complement], i]
+            if remaining in hashmap:
+                return [hashmap[remaining], i]
 
             hashmap[nums[i]] = i
 
 #Approach (Hashing)
 
 #Instead of checking every pair (O(n²)),
-#Use a dictionary (hash map). Store  number : index
-#For every number,Find
-#complement=target - current_numbe
+#Create an empty dictionary ie.hash map to store - number : index
+#For every number,Find - remaining=target - current_number
 #If it already exists in dictionary, Return both indices (previous and current index).
 #Store current number and its index.
 
