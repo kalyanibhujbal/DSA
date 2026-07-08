@@ -10,6 +10,7 @@ Leetcode solutions
 | [0053-maximum-subarray](https://github.com/kalyanibhujbal/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/kalyanibhujbal/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalyanibhujbal/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/kalyanibhujbal/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kalyanibhujbal/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kalyanibhujbal/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kalyanibhujbal/DSA/tree/master/0283-move-zeroes) |
@@ -40,5 +41,10 @@ Leetcode solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kalyanibhujbal/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/kalyanibhujbal/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kalyanibhujbal/DSA/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/kalyanibhujbal/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
