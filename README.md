@@ -8,6 +8,7 @@ Leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/kalyanibhujbal/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/kalyanibhujbal/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/kalyanibhujbal/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kalyanibhujbal/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalyanibhujbal/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/kalyanibhujbal/DSA/tree/master/0189-rotate-array) |
@@ -46,5 +47,6 @@ Leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/kalyanibhujbal/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kalyanibhujbal/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
