@@ -20,5 +20,12 @@ class Solution():
             j -=1
             k -=1
 
+#Approach-
+#Since nums1 has empty spaces at the end, start comparing from the last elements.
+#i → last valid element of nums1
+#j → last element of nums2
+#k → last position of nums1
+#Place the larger element at the end.
+
        
         
