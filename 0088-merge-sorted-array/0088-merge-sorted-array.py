@@ -20,5 +20,15 @@ class Solution():
             j -=1
             k -=1
 
-       
+#Approach-
+#Since nums1 has empty spaces at the end, start comparing from the last elements.
+#i → last valid element of nums1
+#j → last element of nums2
+#k → last position of nums1
+#Compare both arrays from the end.If nums1 element is larger,copy it to the end.Move pointer left.
+#Else,Copy from nums2. Move the destination pointer left.
+#If any elements remain in nums2, copy them.
+
+#Time complexity - O(m+n)
+#Space complexity -O(1)       
         
