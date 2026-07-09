@@ -20,6 +20,7 @@ Leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/kalyanibhujbal/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kalyanibhujbal/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kalyanibhujbal/DSA/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Leetcode solutions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kalyanibhujbal/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kalyanibhujbal/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kalyanibhujbal/DSA/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -49,4 +51,8 @@ Leetcode solutions
 | ------- |
 | [0066-plus-one](https://github.com/kalyanibhujbal/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kalyanibhujbal/DSA/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/kalyanibhujbal/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
