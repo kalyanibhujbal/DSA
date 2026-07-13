@@ -23,6 +23,7 @@ Leetcode solutions
 | [0205-isomorphic-strings](https://github.com/kalyanibhujbal/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kalyanibhujbal/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kalyanibhujbal/DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/kalyanibhujbal/DSA/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,8 +65,13 @@ Leetcode solutions
 | [0205-isomorphic-strings](https://github.com/kalyanibhujbal/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kalyanibhujbal/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kalyanibhujbal/DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/kalyanibhujbal/DSA/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kalyanibhujbal/DSA/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/kalyanibhujbal/DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
