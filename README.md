@@ -35,6 +35,7 @@ Leetcode solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/kalyanibhujbal/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalyanibhujbal/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/kalyanibhujbal/DSA/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Leetcode solutions
 | [0066-plus-one](https://github.com/kalyanibhujbal/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kalyanibhujbal/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kalyanibhujbal/DSA/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/kalyanibhujbal/DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -98,4 +100,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/kalyanibhujbal/DSA/tree/master/0175-combine-two-tables) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kalyanibhujbal/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kalyanibhujbal/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
