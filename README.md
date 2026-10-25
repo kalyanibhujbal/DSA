@@ -100,6 +100,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/kalyanibhujbal/DSA/tree/master/0175-combine-two-tables) |
+| [1757-recyclable-and-low-fat-products](https://github.com/kalyanibhujbal/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Recursion
 |  |
 | ------- |
