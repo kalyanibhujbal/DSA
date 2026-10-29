@@ -20,6 +20,7 @@ Leetcode solutions
 | [0217-contains-duplicate](https://github.com/kalyanibhujbal/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kalyanibhujbal/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kalyanibhujbal/DSA/tree/master/0283-move-zeroes) |
+| [0912-sort-an-array](https://github.com/kalyanibhujbal/DSA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Leetcode solutions
 | [0169-majority-element](https://github.com/kalyanibhujbal/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kalyanibhujbal/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kalyanibhujbal/DSA/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/kalyanibhujbal/DSA/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Leetcode solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/kalyanibhujbal/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kalyanibhujbal/DSA/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/kalyanibhujbal/DSA/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,4 +118,24 @@ Leetcode solutions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kalyanibhujbal/DSA/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kalyanibhujbal/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kalyanibhujbal/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kalyanibhujbal/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kalyanibhujbal/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kalyanibhujbal/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
